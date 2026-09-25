@@ -4,6 +4,6 @@
 * **Comisión:** 2900
 * **Grupo:** 
 * **Integrantes:**
-  José Gregorio Maita Pitado, 95983375
-  Gabriela Florencia Castillo, 32980931
-  Ariel Ignacio Arena, 47147384
+ * José Gregorio Maita Pitado, 95983375
+ * Gabriela Florencia Castillo, 32980931
+ * Ariel Ignacio Arena, 47147384
